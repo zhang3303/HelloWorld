@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="message_hint"> 请发送一条信息</string>
+    <string name="send">发送</string>
+    <string name="btn_text">测试toast</string>
+    <string name="text_click">you clicked me!</string>
+    <string name="item_add">Add</string>
+    <string name="item_remove">Remove</string>
+    <string name="text_click_add">you clicked Add!</string>
+    <string name="text_click_remove">you clicked Remove!</string>
+    <string name="text_test_intent">测试隐式Intent</string>
+    <string name="text_test_baidu">测试百度</string>
+    <string name="text_test_http">测试HTTP</string>
+    <string name="text_http">http</string>
+    <string name="intent_http">测试传递数据</string>
+    <string name="back_intent">测试传递数据到上一个活动</string>
+    <string name="btn_mode">测试mode</string>
+    <string name="btn_mode4">测试mode4</string>
+</resources>
